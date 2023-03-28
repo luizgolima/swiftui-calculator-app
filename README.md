@@ -1,5 +1,5 @@
 # SwiftUI Calculator App
-This is a simple calculator app developed in SwiftUi. It is able to perform basic arithmetic operations such as addition, subtraction, multiplication, and division etc.
+This is a calculator app built with SwiftUI. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The app also includes a percentage and a positive/negative number function.
 
 ## Usage
 The app opens to a simple calculator interface that can be used to perform basic arithmetic operations. The interface includes the following buttons:
